@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TV</string>
+    <string name="browse_title">Maxipelis</string>
+    <string name="related_movies">Peliculas relacionadas</string>
+    <string name="grid_view">Vista En Cuadrícula</string>
+    <string name="error_fragment">Fragmento De Error</string>
+    <string name="personal_settings">Configuración Personal</string>
+    <string name="watch_trailer_1">Ver Trailer</string>
+    <string name="watch_trailer_2">GRATIS</string>
+    <string name="rent_1">Rentar por un día</string>
+    <string name="rent_2">desde $49.99</string>
+    <string name="buy_1">Compra permanente</string>
+    <string name="buy_2">A $199.99</string>
+    <string name="movie">Pelicula</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">Un error ocurrio</string>
+    <string name="dismiss_error">Descartar</string>
+</resources>
